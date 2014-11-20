@@ -86,6 +86,8 @@ namespace ProbasGit
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
+
+            // Vamos ver se vai esta merda
         }
     }
 }

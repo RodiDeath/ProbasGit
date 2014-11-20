@@ -1,0 +1,6 @@
+C:\Users\Rodi\Documents\Visual Studio 2010\Projects\IG\ProbasGit\ProbasGit\ProbasGit\bin\x86\Debug\ProbasGit.exe
+C:\Users\Rodi\Documents\Visual Studio 2010\Projects\IG\ProbasGit\ProbasGit\ProbasGit\bin\x86\Debug\ProbasGit.pdb
+C:\Users\Rodi\Documents\Visual Studio 2010\Projects\IG\ProbasGit\ProbasGit\ProbasGit\obj\x86\Debug\ProbasGit.csprojResolveAssemblyReference.cache
+C:\Users\Rodi\Documents\Visual Studio 2010\Projects\IG\ProbasGit\ProbasGit\ProbasGit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rodi\Documents\Visual Studio 2010\Projects\IG\ProbasGit\ProbasGit\ProbasGit\obj\x86\Debug\ProbasGit.exe
+C:\Users\Rodi\Documents\Visual Studio 2010\Projects\IG\ProbasGit\ProbasGit\ProbasGit\obj\x86\Debug\ProbasGit.pdb
